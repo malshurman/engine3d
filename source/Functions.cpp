@@ -1,6 +1,6 @@
 #include <strstream>
-#include "objects.h"
-#include "olcPixelGameEngine.h"
+#include "../headers/objects.h"
+#include "../headers/olcPixelGameEngine.h"
 
 Vec3d operator+(Vec3d& v1, Vec3d& v2)
 {

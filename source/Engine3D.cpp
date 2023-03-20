@@ -3,7 +3,7 @@
  */
 
 #define OLC_PGE_APPLICATION
-#include "objects.h"
+#include "../headers/objects.h"
 #include <fstream>
 #include <strstream>
 #include <algorithm>
