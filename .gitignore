@@ -33,3 +33,6 @@
 
 # Debug
 x64/
+
+# Others
+.idea
