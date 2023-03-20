@@ -1,0 +1,15 @@
+﻿  Engine3D.cpp
+C:\Users\alsm_\Documents\Workspace\engine3d\Engine3D.cpp(137,61): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\Users\alsm_\Documents\Workspace\engine3d\Engine3D.cpp(137,51): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\Users\alsm_\Documents\Workspace\engine3d\Engine3D.cpp(137,41): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\Users\alsm_\Documents\Workspace\engine3d\Engine3D.cpp(247,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alsm_\Documents\Workspace\engine3d\Engine3D.cpp(254,74): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+C:\Users\alsm_\Documents\Workspace\engine3d\Engine3D.cpp(254,64): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+C:\Users\alsm_\Documents\Workspace\engine3d\Engine3D.cpp(254,54): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+C:\Users\alsm_\Documents\Workspace\engine3d\Engine3D.cpp(254,44): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+C:\Users\alsm_\Documents\Workspace\engine3d\Engine3D.cpp(254,34): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+C:\Users\alsm_\Documents\Workspace\engine3d\Engine3D.cpp(254,24): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+  Functions.cpp
+  Generating Code...
+C:\Users\alsm_\Documents\Workspace\engine3d\Functions.cpp(281): warning C4715: 'Triangle_ClipAgainstPlane': not all control paths return a value
+  engine3d.vcxproj -> C:\Users\alsm_\Documents\Workspace\engine3d\x64\Debug\engine3d.exe
